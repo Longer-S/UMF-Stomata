@@ -2,7 +2,7 @@
 
 Official code repository for the paper **"UMF-Stomata: An Unsupervised Multi-Focus Fusion Framework for Microscopic Stomatal Phenotyping"**.
 
-This project provides the model definition, inference pipeline, pretrained weights, and example image stacks used for multi-focus microscopic stomatal image fusion. The local training script is intentionally excluded from the public GitHub version of this repository.
+This project provides the model definition, inference pipeline, pretrained weights, and example image stacks used for multi-focus microscopic stomatal image fusion. 
 
 ## Overview
 
